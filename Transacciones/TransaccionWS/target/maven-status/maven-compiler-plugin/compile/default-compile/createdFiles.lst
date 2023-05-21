@@ -1,0 +1,8 @@
+estructura\TarjetaDePago.class
+estructura\Productos.class
+com\mycompany\transaccionws\resources\JavaEE8Resource.class
+estructura\Conexion.class
+estructura\ValidaDatos.class
+estructura\ProductosBD.class
+com\mycompany\transaccionws\JAXRSConfiguration.class
+org\me\trans\GestionTransaccion.class
