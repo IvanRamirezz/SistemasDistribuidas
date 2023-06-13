@@ -1,2 +1,2 @@
-# bittorrentJava
-Proyecto final para la materia de sistemas distribuidos, un sistema bittorent capaz de transferir archivos en dispositivos de la misma red. 
+# Bittorent_SistemasDistribuidos
+Proyecto final para la materia de sistemas distribuidos, red bittorent para transferir archivos. 
